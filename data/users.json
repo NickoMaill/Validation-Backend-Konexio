@@ -1,0 +1,30 @@
+[
+    {
+        "id": 745,
+        "username": "alexDuFufu",
+        "age": 38,
+        "email": "alexDuFufu@gmail.com",
+        "city": "Joinville"
+    },
+    {
+        "id": 238,
+        "username": "JoeLaDouille",
+        "age": 54,
+        "email": "Jojo@gmail.com",
+        "city": "Saint-Castaing"
+    },
+    {
+        "id": 345,
+        "username": "PauPauThePow",
+        "age": 27,
+        "email": "Paulimorph@gmail.com",
+        "city": "Baufland"
+    },
+    {
+        "id": 730,
+        "username":"Nickox_Fixx",
+        "age": 18,
+        "email": "nickNox@gmail.com",
+        "city": "Foxtown"
+    }
+]
